@@ -1,0 +1,8 @@
+# Ignore any file db.
+*.db
+# Ignore any file log.
+*.log
+# Ignore any file target dir.
+/target
+# Ignore any file bin dir.
+/bin
